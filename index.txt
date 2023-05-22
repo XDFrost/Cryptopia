@@ -1,7 +1,7 @@
 Cryptex - Buy & Sell Digital Assets In The cryptex
 
 
-
+Pratham Gupta
 #---------- HEADER ----------#
 
 alt = Cryptex logo
